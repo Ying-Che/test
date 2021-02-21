@@ -1,0 +1,97 @@
+commit f5efc3740457b227fd73ef8b0f89c1c4734f23a7
+Author: Ying-Che Shih <yingchs@uci.edu>
+Date:   Mon Feb 15 16:00:58 2021 -0800
+
+    Re-adding file2.txt
+
+diff --git a/file2.txt b/file2.txt
+new file mode 100644
+index 0000000..cb878c6
+--- /dev/null
++++ b/file2.txt
+@@ -0,0 +1 @@
++2022 Software Engineer
+
+commit bffeaac7a70865448db3a7fdc8befead287f0615
+Author: Ying-Che Shih <yingchs@uci.edu>
+Date:   Mon Feb 15 15:43:42 2021 -0800
+
+    Deleting file2.txt
+
+diff --git a/file1.txt b/file1.txt
+index 3282d31..3bd6f79 100644
+--- a/file1.txt
++++ b/file1.txt
+@@ -1 +1,2 @@
+-Ying-Che Shih CSE IN-N-OUT Life Of Pi
+\ No newline at end of file
++Ying-Che Shih CSE IN-N-OUT Life Of Pi
++Cyan
+diff --git a/file2.txt b/file2.txt
+deleted file mode 100644
+index cb878c6..0000000
+--- a/file2.txt
++++ /dev/null
+@@ -1 +0,0 @@
+-2022 Software Engineer
+
+commit 79c6f81de1d7b38776a7d1185e8402dc73fa0ecd
+Author: Ying-Che Shih <yingchs@uci.edu>
+Date:   Mon Feb 15 15:35:42 2021 -0800
+
+    Not for sure
+
+diff --git a/file2.txt b/file2.txt
+new file mode 100644
+index 0000000..cb878c6
+--- /dev/null
++++ b/file2.txt
+@@ -0,0 +1 @@
++2022 Software Engineer
+
+commit 140afb193f05ae7ccaa577a7decfe0d9643a023f
+Author: Ying-Che Shih <yingchs@uci.edu>
+Date:   Mon Feb 15 13:00:34 2021 -0800
+
+    Added favorite restaurant and movie
+
+diff --git a/file1.txt b/file1.txt
+index 4c515cd..3282d31 100644
+--- a/file1.txt
++++ b/file1.txt
+@@ -1 +1 @@
+-Ying-Che Shih CSE
+\ No newline at end of file
++Ying-Che Shih CSE IN-N-OUT Life Of Pi
+\ No newline at end of file
+
+commit 38e07caa2d1150f1aea946568d0ba6496bb14a5a
+Author: Ying-Che Shih <yingchs@uci.edu>
+Date:   Mon Feb 15 12:51:11 2021 -0800
+
+    Now has my major
+
+diff --git a/file1.txt b/file1.txt
+index d69eeac..4c515cd 100644
+--- a/file1.txt
++++ b/file1.txt
+@@ -1 +1 @@
+-Ying-Che Shih 71068819
+\ No newline at end of file
++Ying-Che Shih CSE
+\ No newline at end of file
+
+commit c98acf363dfe3f3711092963052ccaa86434b773
+Author: Ying-Che Shih <yingchs@uci.edu>
+Date:   Mon Feb 15 10:49:26 2021 -0800
+
+    Committing a new file with my name
+
+diff --git a/file1.txt b/file1.txt
+new file mode 100644
+index 0000000..d69eeac
+--- /dev/null
++++ b/file1.txt
+@@ -0,0 +1 @@
++Ying-Che Shih 71068819
+\ No newline at end of file
